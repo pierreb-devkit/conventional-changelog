@@ -21,7 +21,7 @@
     "type": "git",
     "url": "git+https://github.com/weareopensource/conventional-changelog.git"
   },
-  "author": "Pierre Brisorgueil <pierre@weareopensource.me>",
+  "author": "Pierre Brisorgueil (https://pierreb.me)",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.0.0",
