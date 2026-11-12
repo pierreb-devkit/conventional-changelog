@@ -1,6 +1,6 @@
 {
   "name": "@weareopensource/conventional-changelog",
-  "version": "0.0.0-development",
+  "version": "1.7.1",
   "description": "Commitizen adapter following the conventional-changelog format with emojis choice.",
   "keywords": [
     "commitlint",
@@ -21,7 +21,7 @@
     "type": "git",
     "url": "git+https://github.com/weareopensource/conventional-changelog.git"
   },
-  "author": "Pierre Brisorgueil <pierre@weareopensource.me>",
+  "author": "Pierre Brisorgueil (https://pierreb.me)",
   "license": "MIT",
   "husky": {
     "hooks": {
